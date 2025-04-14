@@ -8,21 +8,33 @@ Kullanıcı dostu arayüzü ve gelişmiş özellikleriyle sunucunuzu düzene sok
 Herkese Hitap Eden Sistemlerimiz
 
 ✅ Oyun sunucuları için birçok oyunun canlı istatistik komutları
+
 ✅ Resmi toplulukların işini garantiye alan mesaj loglu ticket sistemi
+
 ✅ YouTuber ve yayıncı topluluklarına katkı sağlayan abone rol sistemi
+
 ✅ Public sunucularının işini kolaylaştıran oto yapay zeka kayıt sistemi
 
 Öne Çıkan Bazı Özelliklerimiz
 
 📌 Buton destekli emoji rol sistemi – Kullanıcılar kolayca rol alabilir
+
 🤖 Akıllı oto cevap sistemi – İstediğiniz kelimeye özel yanıtlar tanımlayabilirsiniz.
+
 💖 Eğlenceli kullanıcı sistemleri – Aşk ölçer, banner, sayı saymaca ve daha fazlası!
+
 🛡️ Gelişmiş güvenlik sistemleri – Küfür, Reklam, Caps, Spam, Görsel kanalı ve daha fazlası...
+
 📩 Gelişmiş etiket bilgi sistemi – Sizi etiketleyip mesajını silenleri DM ile anında bildirim alın!
+
 🔍 Gelişmiş log sistemleri – Mesaj, kanal, ses loglarıyla sunucunuzda olan her şeyi takip edin.
+
 🎮 Oyun sunucu istatistikleri – TruckerMP, MTA, Minecraft ve çok daha fazlasını görüntüleyin.
+
 🎵 Kesintisiz, pingsiz müzik sistemi – Kullanıcıların rahatça müzik dinleyebilmesi için geliştirildi.
+
 👋 Otomatik karşılama sistemleri – Otorol, yapay zeka kayıt, DM karşılama, resimli ve çok dahası...
+
 🎫 Tamamen özelleştirilebilir ticket/destek sistemi – Mesaj loglama özelliğiyle her şey kontrolünüzde!
 
 MetuS ile sunucunuzu daha düzenli, güvenli ve eğlenceli hale getirin! 🚀****
