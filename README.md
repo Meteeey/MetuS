@@ -56,11 +56,12 @@ ________________________________________________________________________________
 
 [Gizlilik Politikası](https://metehanstudio.com/gizlilik-politikasi) ve [Kullanım Şartları](https://metehanstudio.com/terms)
 
-Bu proje [DMCA](https://www.dmca.com/) tarafından korunmaktadır. Projenin içeriğinin veya görsellerin izinsiz kopyalanması, yeniden dağıtılması veya herhangi bir şekilde kullanılması yasaktır. Her türlü izinsiz kullanım tespit edilirse gerekli yasal işlemler başlatılır.
+Bu proje DMCA tarafından korunmaktadır. Projenin içeriğinin veya görsellerin izinsiz kopyalanması, yeniden dağıtılması veya herhangi bir şekilde kullanılması yasaktır. Tespit edilmesi durumunda gerekli yasal işlemler başlatılır.
 
 [![DMCA Badge](https://images.dmca.com/Badges/dmca-badge-w100-5x1-01.png)](https://www.dmca.com/r/4dw15qz)
 
 
+_____________________________________________________________________________________________________________
 
 ![metus](https://github.com/Metukan/MetuS/assets/119117608/17477f4a-a572-43de-b617-5017de48ec4a)
 ![fwqfqw](https://github.com/Metukan/MetuS/assets/119117608/578ea3ff-e383-4e4c-a127-5d857c1af580)
