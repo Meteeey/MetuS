@@ -52,10 +52,9 @@ Discord Bot List (Top.gg): https://top.gg/bot/1065965045906935808
 
 _____________________________________________________________________________________________________________
 
-## 🛡️ Telif Hakkı ve Gizlilik Politikası
+🛡️ Telif Hakkı ve Gizlilik Politikası
 
-[Gizlilik Politikası](https://metehanstudio.com/gizlilik-politikasi)
-[Kullanım Şartları](https://metehanstudio.com/terms)
+[Gizlilik Politikası](https://metehanstudio.com/gizlilik-politikasi) ve [Kullanım Şartları](https://metehanstudio.com/terms)
 
 Bu proje [DMCA](https://www.dmca.com/) tarafından korunmaktadır. Projenin içeriğinin veya görsellerin izinsiz kopyalanması, yeniden dağıtılması veya herhangi bir şekilde kullanılması yasaktır. Her türlü izinsiz kullanım tespit edilirse gerekli yasal işlemler başlatılır.
 
