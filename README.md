@@ -1,5 +1,6 @@
-# MetuS
-MetuS, Bir Discord botundan çok daha fazlası...
+# MetuS - Bir Discord botundan çok daha fazlası...
+
+_____________________________________________________________________________________________________________
 
 MetuS, 2022 yılının sonlarında beta olarak kullanıma açılmış ve bugüne kadar 1.500'den fazla sunucuya kesintisiz hizmet vermiştir.
 
