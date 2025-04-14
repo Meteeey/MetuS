@@ -62,14 +62,30 @@ Bu proje DMCA tarafından korunmaktadır. Projenin içeriğinin veya görselleri
 
 [![DMCA Badge](https://images.dmca.com/Badges/dmca-badge-w100-5x1-01.png)](https://www.dmca.com/r/4dw15qz)
 
+_____________________________________________________________________________________________________________
+
+![Metehan_Studio_Banner](https://github.com/user-attachments/assets/f9525616-b369-4adf-8dbe-e6725ba28f35)
 
 _____________________________________________________________________________________________________________
 
-![metus](https://github.com/Metukan/MetuS/assets/119117608/17477f4a-a572-43de-b617-5017de48ec4a)
-![fwqfqw](https://github.com/Metukan/MetuS/assets/119117608/578ea3ff-e383-4e4c-a127-5d857c1af580)
-![Ekran görüntüsü 2023-12-15 195842](https://github.com/Metukan/MetuS/assets/119117608/41bbb6a2-365f-49dd-a89e-5843832f8b97)
-![swfqwf](https://github.com/Metukan/MetuS/assets/119117608/9fa94272-cbaf-40ef-9c3f-9b2f1e691eab)
-![wfqfwqfwqjwqkfwqjkıfwq](https://github.com/Metukan/MetuS/assets/119117608/4ea3a2e4-e607-4820-a267-9260a02615da)
+![image](https://github.com/user-attachments/assets/15096f80-0265-4d93-98f3-14a3f527d54a)
+![image](https://github.com/user-attachments/assets/b0744d8c-dfe7-412a-9e29-0fbf83e66ec1)
+![image](https://github.com/user-attachments/assets/0336355c-c099-442d-930e-3d44b599814d)
+![image](https://github.com/user-attachments/assets/14cb7e8d-7284-459f-9f7e-7a519c6399fc)
+![image](https://github.com/user-attachments/assets/6f71d01e-28ca-4d36-aef6-fa5d200102f0)
+![image](https://github.com/user-attachments/assets/6bba1698-f9f2-4d9e-8378-708040a140fd)
+![image](https://github.com/user-attachments/assets/4db9ad14-3499-48f4-b18c-4db914d16160)
+![image](https://github.com/user-attachments/assets/3057bd69-5c19-4b4f-adca-8f1ce6c55b94)
+
+
+
+
+
+
+
+
+
+
 ![hm](https://github.com/Metukan/MetuS/assets/119117608/fd41220a-b981-4703-8d33-7c829753a4a8)
 ![metus](https://github.com/Metukan/MetuS/assets/119117608/e94b1f4b-3b9b-40ef-97d7-b66d58c7afe4)
 ![image](https://github.com/Metukan/MetuS/assets/119117608/45a34cdb-3d6a-42bf-a937-952733f20415)
