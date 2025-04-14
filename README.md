@@ -55,7 +55,7 @@ Discord Bot List (Top.gg): https://top.gg/bot/1065965045906935808
 
 _____________________________________________________________________________________________________________
 
-🛡️ Telif Hakkı ve Gizlilik Politikası
+🛡️ Telif Hakkı ve Lisans
 
 Bu proje DMCA tarafından korunmaktadır. Projenin içeriğinin veya görsellerin izinsiz kopyalanması, yeniden dağıtılması veya herhangi bir şekilde kullanılması yasaktır. Tespit edilmesi durumunda gerekli yasal işlemler başlatılır.
 
