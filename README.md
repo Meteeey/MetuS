@@ -1,37 +1,31 @@
 # MetuS
 MetuS, Bir Discord botundan çok daha fazlası...
 
-Slash komutlar, anlaşılır yardım menüsü, yapay zekayla donatılmış sistemler... üstelik tamamen ücretsiz:?
+MetuS, 2022 yılının sonlarında beta olarak kullanıma açılmış ve bugüne kadar 1.500'den fazla sunucuya kesintisiz hizmet vermiştir.
 
-MetuS 2022 sonlarında beta olarak kullanıma açılmıştır. Botumuzun amacı kullanım kolaylığıyla beraber, sunucunuzu düzene sokmaktadır. Sadece birkaç komutla bütün ayarları sıfırlayabilir, kurabilir ve düzenleyebilirsiniz. 
+Kullanıcı dostu arayüzü ve gelişmiş özellikleriyle sunucunuzu düzene sokmanızı sağlar. Sadece birkaç basit komutla ayarları sıfırlayabilir, kurabilir ve yönetebilirsiniz.
 
-Mesaj loglu ticket sistemimiz ile market sunucularına, yapay zeka abone sistemimizle youtuber sunucularına, server stat komutlarımız ile oyuncu sunucularına ve daha birçok sistemimizle 1200+ sunucuya 7/24 hizmet vermekteyiz. 
+Herkese Hitap Eden Sistemlerimiz
 
-Aşağıda botumuzda bulunan bazı özellikler bulunmaktadır;
+✅ Oyun sunucuları için birçok oyunun canlı istatistik komutları
+✅ Resmi toplulukların işini garantiye alan mesaj loglu ticket sistemi
+✅ YouTuber ve yayıncı topluluklarına katkı sağlayan abone rol sistemi
+✅ Public sunucularının işini kolaylaştıran oto yapay zeka kayıt sistemi
 
-Aşk ölçer, banner, sayı saymaca tarzı kullanıcı dostu sistemler
+Öne Çıkan Bazı Özelliklerimiz
 
-Tamamen özelleştirilebilir, mesaj loglu ticket/destek sistemimiz
+📌 Buton destekli emoji rol sistemi – Kullanıcılar kolayca rol alabilir
+🤖 Akıllı oto cevap sistemi – İstediğiniz kelimeye özel yanıtlar tanımlayabilirsiniz.
+💖 Eğlenceli kullanıcı sistemleri – Aşk ölçer, banner, sayı saymaca ve daha fazlası!
+🛡️ Gelişmiş güvenlik sistemleri – Küfür, Reklam, Caps, Spam, Görsel kanalı ve daha fazlası...
+📩 Gelişmiş etiket bilgi sistemi – Sizi etiketleyip mesajını silenleri DM ile anında bildirim alın!
+🔍 Gelişmiş log sistemleri – Mesaj, kanal, ses loglarıyla sunucunuzda olan her şeyi takip edin.
+🎮 Oyun sunucu istatistikleri – TruckerMP, MTA, Minecraft ve çok daha fazlasını görüntüleyin.
+🎵 Kesintisiz, pingsiz müzik sistemi – Kullanıcıların rahatça müzik dinleyebilmesi için geliştirildi.
+👋 Otomatik karşılama sistemleri – Otorol, yapay zeka kayıt, DM karşılama, resimli ve çok dahası...
+🎫 Tamamen özelleştirilebilir ticket/destek sistemi – Mesaj loglama özelliğiyle her şey kontrolünüzde!
 
-Güncel depremleri ve haberleri log kanalına atabileceğiniz sistem
-
-Üyelerin istediği gibi kullanabileceği kesintisiz pingsiz müzik sistemi
-
-Sizi etiketleyip silen kişileri dm nize log atan gelişmiş etiket bilgi sistemi
-
-İstediğiniz cümleyi ve cümlenin karşılığını ekleyebildiğiniz oto cevap sistemi
-
-Kullanıcılara kolayca rol verebilmeniz için buton destekli emoji rol sistemimiz
-
-Yazı kanallarını koruyabilceğiniz caps, küfür, reklam, sohbet, tag engel sistemi
-
-TruckerMP , MTA , Minecraft gibi oyun sunucularının anlık bilgisini gösteren komutlar
-
-Sunucunuzda olan herşeyi anlık olarak takip edebileceğiniz mesaj, kanal, ses log sistemlerimiz
-
-Yapay zeka sohbet, yapay zeka resim çizdirme, anlık dolar,euro,btc bilgi, deprem bilgi ve çeviri komutu
-
-Yeni üyeleri karşılamanız için otorol, yapay zeka kayıt, dm karşılama, resimli karşılama, embed karşılama, oto tag sistemleri
+MetuS ile sunucunuzu daha düzenli, güvenli ve eğlenceli hale getirin! 🚀****
 
 
 Botu ekle: https://metehanstudio.com/ekle
