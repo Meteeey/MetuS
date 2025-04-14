@@ -5,6 +5,8 @@ MetuS, 2022 yılının sonlarında beta olarak kullanıma açılmış ve bugüne
 
 Kullanıcı dostu arayüzü ve gelişmiş özellikleriyle sunucunuzu düzene sokmanızı sağlar. Sadece birkaç basit komutla ayarları sıfırlayabilir, kurabilir ve yönetebilirsiniz.
 
+_____________________________________________________________________________________________________________
+
 Herkese Hitap Eden Sistemlerimiz
 
 ✅ Oyun sunucuları için birçok oyunun canlı istatistik komutları
@@ -39,6 +41,8 @@ Herkese Hitap Eden Sistemlerimiz
 
 MetuS ile sunucunuzu daha düzenli, güvenli ve eğlenceli hale getirin! 🚀****
 
+_____________________________________________________________________________________________________________
+
 
 Botu ekle: https://metehanstudio.com/ekle
 
@@ -46,6 +50,14 @@ Destek sunucusu: https://discord.gg/medya
 
 Discord Bot List (Top.gg): https://top.gg/bot/1065965045906935808
 
+_____________________________________________________________________________________________________________
+
+## 🛡️ Telif Hakkı ve Gizlilik Politikası
+
+[Gizlilik Politikası](https://metehanstudio.com/gizlilik-politikasi)
+[Kullanım Şartları](https://metehanstudio.com/terms)
+
+Bu proje [DMCA](https://www.dmca.com/) tarafından korunmaktadır. Projenin içeriğinin veya görsellerin izinsiz kopyalanması, yeniden dağıtılması veya herhangi bir şekilde kullanılması yasaktır. Her türlü izinsiz kullanım tespit edilirse gerekli yasal işlemler başlatılır.
 
 [![DMCA Badge](https://images.dmca.com/Badges/dmca-badge-w100-5x1-01.png)](https://www.dmca.com/r/4dw15qz)
 
