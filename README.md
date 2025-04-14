@@ -46,6 +46,8 @@ Destek sunucusu: https://discord.gg/medya
 
 Discord Bot List (Top.gg): https://top.gg/bot/1065965045906935808
 
+[![DMCA](https://images.dmca.com/Badges/dmca_protected_16_120.png?ID=someID)](https://www.dmca.com/)
+
 
 
 ![metus](https://github.com/Metukan/MetuS/assets/119117608/17477f4a-a572-43de-b617-5017de48ec4a)
