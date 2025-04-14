@@ -43,6 +43,9 @@ MetuS ile sunucunuzu daha düzenli, güvenli ve eğlenceli hale getirin! 🚀***
 
 _____________________________________________________________________________________________________________
 
+Gizlilik Politikası: https://metehanstudio.com/gizlilik-politikasi
+
+Kullanım Şartları: https://metehanstudio.com/terms
 
 Botu ekle: https://metehanstudio.com/ekle
 
@@ -53,8 +56,6 @@ Discord Bot List (Top.gg): https://top.gg/bot/1065965045906935808
 _____________________________________________________________________________________________________________
 
 🛡️ Telif Hakkı ve Gizlilik Politikası
-
-[Gizlilik Politikası](https://metehanstudio.com/gizlilik-politikasi) ve [Kullanım Şartları](https://metehanstudio.com/terms)
 
 Bu proje DMCA tarafından korunmaktadır. Projenin içeriğinin veya görsellerin izinsiz kopyalanması, yeniden dağıtılması veya herhangi bir şekilde kullanılması yasaktır. Tespit edilmesi durumunda gerekli yasal işlemler başlatılır.
 
